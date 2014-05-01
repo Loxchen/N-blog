@@ -1,0 +1,16 @@
+{
+  "name": "N-blog",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.4.8",
+    "ejs": "*",
+    "mongoose": "*",
+    "connect-flash": "*",
+    "connect": "^2.14.5",
+    "session-mongoose": "^0.4.1"
+  }
+}
